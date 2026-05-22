@@ -1,0 +1,76 @@
+Task_ID,Project_ID,Task_Name,Department,Assigned_Role,Planned_Hours,Actual_Hours,Status
+TSK001,PRJ001,Requirement Gathering,IT,Business Analyst,40,38,Completed
+TSK002,PRJ001,Architecture Design,IT,Solution Architect,60,65,Completed
+TSK003,PRJ001,Cloud Readiness Assessment,IT,Cloud Engineer,30,28,Completed
+TSK004,PRJ001,Data Migration Script,IT,Data Engineer,80,90,In Progress
+TSK005,PRJ001,User Acceptance Testing,IT,QA Tester,40,45,Not Started
+TSK006,PRJ002,Wireframe Design,Marketing,UX Designer,50,55,Completed
+TSK007,PRJ002,Front?end Development,Marketing,Developer,120,130,In Progress
+TSK008,PRJ002,CMS Integration,Marketing,Developer,60,60,Completed
+TSK009,PRJ002,SEO Audit,Marketing,SEO Specialist,20,18,Completed
+TSK010,PRJ003,Policy Review,HR,HR Specialist,15,15,Completed
+TSK011,PRJ003,System Configuration,HR,HRIS Analyst,30,32,Completed
+TSK012,PRJ003,Employee Communication,HR,HR Generalist,10,8,Completed
+TSK013,PRJ004,UI/UX Prototyping,IT,UX Designer,80,85,In Progress
+TSK014,PRJ004,API Development,IT,Backend Developer,120,140,In Progress
+TSK015,PRJ004,Database Setup,IT,DBA,40,40,Completed
+TSK016,PRJ004,Security Testing,IT,Security Engineer,30,35,Not Started
+TSK017,PRJ005,Site Survey,Operations,Facility Manager,20,22,Completed
+TSK018,PRJ005,Vendor Selection,Operations,Procurement,15,12,Completed
+TSK019,PRJ005,IT Infrastructure Setup,Operations,Network Engineer,60,70,In Progress
+TSK020,PRJ006,Data Modeling,IT,Data Architect,100,110,In Progress
+TSK021,PRJ006,ETL Pipeline Development,IT,Data Engineer,200,190,In Progress
+TSK022,PRJ006,Dashboard Design,IT,BI Developer,80,75,Not Started
+TSK023,PRJ007,Market Research,Marketing,Market Analyst,30,32,Completed
+TSK024,PRJ007,Creative Brief,Marketing,Brand Manager,20,20,Completed
+TSK025,PRJ007,Content Creation,Marketing,Copywriter,40,42,In Progress
+TSK026,PRJ008,System Audit,IT,ERP Consultant,50,55,Completed
+TSK027,PRJ008,Module Customization,IT,ERP Developer,120,130,In Progress
+TSK028,PRJ008,Data Cleansing,IT,Data Analyst,60,65,In Progress
+TSK029,PRJ009,Curriculum Design,Sales,Trainer,40,38,Completed
+TSK030,PRJ009,Materials Production,Sales,Instructional Designer,30,30,Completed
+TSK031,PRJ009,Pilot Session,Sales,Trainer,15,15,Completed
+TSK032,PRJ010,Authentication Module,IT,Security Developer,60,70,In Progress
+TSK033,PRJ010,Payment Gateway Integration,IT,Backend Developer,80,85,In Progress
+TSK034,PRJ010,Load Testing,IT,Performance Engineer,30,28,Not Started
+TSK035,PRJ011,Process Mapping,Operations,Business Analyst,40,40,Completed
+TSK036,PRJ011,Inventory Analysis,Operations,Supply Chain Analyst,50,55,Completed
+TSK037,PRJ011,Supplier Negotiation,Operations,Procurement,20,18,In Progress
+TSK038,PRJ012,Employee Survey,HR,HR Specialist,25,25,Completed
+TSK039,PRJ012,Focus Groups,HR,HR Generalist,20,22,Completed
+TSK040,PRJ012,Action Plan Creation,HR,HR Manager,15,12,In Progress
+TSK041,PRJ013,Needs Assessment,Sales,Sales Ops,30,32,Completed
+TSK042,PRJ013,CRM Customization,Sales,CRM Developer,100,110,In Progress
+TSK043,PRJ013,Data Import,Sales,Data Analyst,40,38,Not Started
+TSK044,PRJ014,Platform Selection,Marketing,Social Media Manager,15,14,Completed
+TSK045,PRJ014,Content Calendar,Marketing,Content Strategist,25,25,Completed
+TSK046,PRJ014,Analytics Setup,Marketing,Data Analyst,20,18,In Progress
+TSK047,PRJ015,Vulnerability Assessment,IT,Security Analyst,40,42,Completed
+TSK048,PRJ015,Penetration Testing,IT,Ethical Hacker,30,35,Completed
+TSK049,PRJ015,Patch Deployment,IT,System Admin,50,55,In Progress
+TSK050,PRJ016,Competency Framework,HR,L&D Specialist,35,35,Completed
+TSK051,PRJ016,Pilot Cohort,HR,Trainer,20,20,Completed
+TSK052,PRJ016,Feedback Analysis,HR,HR Analyst,15,16,In Progress
+TSK053,PRJ017,Platform Audit,IT,Tech Lead,40,45,Completed
+TSK054,PRJ017,Cart & Checkout Revamp,IT,Frontend Developer,120,140,In Progress
+TSK055,PRJ017,Performance Optimization,IT,Performance Engineer,50,48,Not Started
+TSK056,PRJ018,Product Messaging,Marketing,Product Marketer,25,25,Completed
+TSK057,PRJ018,Launch Event Planning,Marketing,Event Manager,30,32,In Progress
+TSK058,PRJ018,Media Outreach,Marketing,PR Specialist,20,18,Not Started
+TSK059,PRJ019,Vendor Evaluation,Operations,Procurement,20,20,Completed
+TSK060,PRJ019,System Integration,Operations,Integration Developer,80,90,In Progress
+TSK061,PRJ020,NLP Model Training,IT,Data Scientist,60,70,In Progress
+TSK062,PRJ020,Chat Interface Development,IT,Frontend Developer,80,85,In Progress
+TSK063,PRJ020,User Testing,IT,UX Researcher,25,22,Not Started
+TSK064,PRJ021,Program Design,HR,Wellness Coordinator,30,30,Completed
+TSK065,PRJ021,Vendor Contracts,HR,HR Generalist,10,8,Completed
+TSK066,PRJ021,Launch Communication,HR,Internal Comms,10,10,Completed
+TSK067,PRJ022,Offline Mode Development,IT,Mobile Developer,70,80,In Progress
+TSK068,PRJ022,Device Testing,IT,QA Tester,40,38,Not Started
+TSK069,PRJ023,Territory Analysis,Sales,Sales Analyst,35,35,Completed
+TSK070,PRJ023,Partner Identification,Sales,BD Manager,20,18,In Progress
+TSK071,PRJ024,Content Migration,IT,Content Manager,50,55,In Progress
+TSK072,PRJ024,Search Functionality,IT,Developer,40,40,Completed
+TSK073,PRJ025,Data Collection,Operations,Sustainability Analyst,20,22,Completed
+TSK074,PRJ025,Report Drafting,Operations,Technical Writer,30,28,In Progress
+TSK075,PRJ026,CI/CD Pipeline Setup,IT,DevOps Engineer,80,90,In Progress
