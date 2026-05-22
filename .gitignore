@@ -1,0 +1,9 @@
+# Temporary files
+*.db-journal
+.ipynb_checkpoints/
+
+# Untitled notebook
+Untitled.ipynb
+
+# Excel temp
+~$*.xlsx
