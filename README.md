@@ -83,7 +83,7 @@ Relationships:
 
 ## 👤 Author
 [samikksha]  
-GitHub: samikksha3027(https://github.com/samikksha3027)
+GitHub: [samikksha3027](https://github.com/samikksha3027)
 
 ---
 
